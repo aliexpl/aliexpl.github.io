@@ -1,0 +1,22 @@
+[book]
+title = "ALE"
+description = "Another life exploration."
+authors = ["aliexpl"]
+language = "en"
+src = "src"
+
+[build]
+create-missing = false
+
+[output.html]
+git-repository-url = "https://github.com/aliexpl/aliexpl.github.io"
+git-repository-icon = "fab-github"
+
+# Enable only in prod.
+[output.html.search]
+enable = false
+
+# Enable only in prod.
+[output.html.print]
+enable = false          # include support for printable output
+page-break = true       # insert page-break after each chapter
