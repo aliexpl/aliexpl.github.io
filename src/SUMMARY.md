@@ -12,3 +12,7 @@
 # Media
 
 - [Anime](./anime.md)
+
+---
+
+[Glossary](./glossary.md)
