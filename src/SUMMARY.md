@@ -8,3 +8,7 @@
     - [Mirror](./mirror.md)
 
 # Space
+
+# Media
+
+- [Anime](./anime.md)
