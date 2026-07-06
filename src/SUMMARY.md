@@ -4,4 +4,7 @@
 
 # Earth
 
+- [Observation design](./design.md)
+    - [Mirror](./mirror.md)
+
 # Space
