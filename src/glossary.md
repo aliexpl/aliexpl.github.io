@@ -17,3 +17,8 @@ to the living in bodily form or to haunt specific locations.
 
 **Spirit:** A force or principle believed to animate living beings.
 [↗](https://www.thefreedictionary.com/spirit)
+
+**Stigmatized property:** Property that buyers or tenants may shun for reasons that are unrelated
+to its physical condition or features. These can include death of an occupant, murder, suicide,
+previous illicit activities, and even the belief that a house is haunted.
+[↗](https://en.wikipedia.org/wiki/Stigmatized_property)
