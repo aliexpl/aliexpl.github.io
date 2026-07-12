@@ -13,6 +13,10 @@
 
 - [Anime](./anime.md)
 
+# Research
+
+- [Book](./book.md)
+
 ---
 
 [Glossary](./glossary.md)
