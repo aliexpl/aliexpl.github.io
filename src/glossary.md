@@ -15,6 +15,10 @@ to the living in bodily form or to haunt specific locations.
 **Pareidolia:** The perception of a recognizable image or meaningful pattern where none exists or is intended.
 [↗](https://www.thefreedictionary.com/Pareidolia)
 
+**Poltergeist:** a spirit believed to manifest its presence by rappings and other noises
+and also by acts of mischief, such as throwing furniture about.
+[↗](https://www.thefreedictionary.com/poltergeist)
+
 **Spirit:** A force or principle believed to animate living beings.
 [↗](https://www.thefreedictionary.com/spirit)
 
